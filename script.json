@@ -7,5 +7,6 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "HI": "Thanks for contacting PAS",
-    "WHAT IS YOUR NAME": "I'm P11D Organiser Pete"
+    "WHAT IS YOUR NAME": "I'm P11D Organiser Pete",
+    "MY SCREEN DOESN'T OPEN": "Try Starting the Organiser and then press Control-Shift-F10"
 }
