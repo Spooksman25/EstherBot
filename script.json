@@ -4,12 +4,12 @@
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
-    "hi": "Thanks for contacting PAS"
-    "What is your name?": "I'm P11D Organiser Pete"
+    "DISCONNECT": "Roger that, EstherBot is back.",
+    "hi": "Thanks for contacting PAS",
+    "What is your name?": "I'm P11D Organiser Pete",
     "How do I amendments?": "If you have completed your submission to HMRC (whether using FBI, EEC or paper forms) and you realise that there were errors in the data that has been sent, you will need to submit a revised version of the form(s) in which the error(s) occurred.
 
 ALL amendments must be submitted in paper form and must include not only the amended/corrected benefit(s), but all the existing correct information for the employee as well. For example, if a P11D had data in Section F, Section I and Section M, and the correction is only to Section I, you need to submit a P11D that includes ALL those sections, not just the modified Section I – doing so would actually remove the correct entries that had been previously submitted.
 
-The modified form needs to clearly show that it is an amendment (traditionally handled by writing the word “Amendment” across the form) and must show the tax year to which it relates."
+The modified form needs to clearly show that it is an amendment (traditionally handled by writing the word “Amendment” across the form) and must show the tax year to which it relates.",
 }
